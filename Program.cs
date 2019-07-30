@@ -13,7 +13,7 @@ namespace MapFromImage
 {
     class Program
     {
-        static readonly int mapCell = 160;
+        static readonly int mapCell = 16;
 
         static void Main(string[] args)
         {
